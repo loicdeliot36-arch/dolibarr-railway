@@ -1,0 +1,7 @@
+[Tue Apr 07 16:22:03.660401 2026] [core:warn] [pid 17880:tid 696] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.51/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 07 16:22:04.831554 2026] [mpm_winnt:notice] [pid 17880:tid 696] AH00455: Apache/2.4.51 (Win64) PHP/7.4.26 configured -- resuming normal operations
+[Tue Apr 07 16:22:04.831554 2026] [mpm_winnt:notice] [pid 17880:tid 696] AH00456: Apache Lounge VS16 Server built: Oct  7 2021 16:27:02
+[Tue Apr 07 16:22:04.831554 2026] [core:notice] [pid 17880:tid 696] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.51\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.51'
+[Tue Apr 07 16:22:04.831554 2026] [mpm_winnt:notice] [pid 17880:tid 696] AH00418: Parent: Created child process 17176
+[Tue Apr 07 16:22:05.290679 2026] [mpm_winnt:notice] [pid 17176:tid 688] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 07 19:54:12.427664 2026] [php7:error] [pid 17176:tid 1260] [client 127.0.0.1:54990] script 'C:/dolibarr/www/adminer.php' not found or unable to stat
